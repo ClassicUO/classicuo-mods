@@ -1,0 +1,20 @@
+name: validate
+on:
+  pull_request:
+    paths: ["mods/**"]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: changed entries
+        id: changed
+        run: |
+          files=$(git diff --name-only --diff-filter=AM origin/${{ github.base_ref }}...HEAD -- 'mods/*.json' | tr '\n' ' ')
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+          test -n "$files" || { echo "no mods/*.json changed"; exit 1; }
+      - run: python3 scripts/validate.py ${{ steps.changed.outputs.files }}
+        env:
+          BASE_REF: origin/${{ github.base_ref }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
