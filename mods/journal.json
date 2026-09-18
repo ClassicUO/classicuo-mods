@@ -1,0 +1,11 @@
+{
+  "name": "journal",
+  "version": "0.1.0",
+  "abi": "2",
+  "description": "Tabbed, resizable system-log window: All/Sys/Chat/Party/Guild, fades in on hover, click-through when idle",
+  "authors": ["andreakarasho"],
+  "repository": "https://github.com/andreakarasho/cuo-journal-mod",
+  "license": "BSD-2-Clause",
+  "download": "https://github.com/andreakarasho/cuo-journal-mod/releases/download/v0.1.0/journal.zip",
+  "sha256": "e7f8b6507758ec949c6de63b7eb4238c90ab02de92e39b341557ca66f525e5a9"
+}
