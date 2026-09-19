@@ -2,7 +2,7 @@
   "mods": [
     {
       "name": "journal",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "abi": "2",
       "description": "Tabbed, resizable system-log window: All/Sys/Chat/Party/Guild, UO fonts, fades in on hover, click-through when idle. Replaces the client's built-in log.",
       "authors": [
@@ -10,8 +10,8 @@
       ],
       "repository": "https://github.com/andreakarasho/cuo-journal-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/cuo-journal-mod/releases/download/v0.2.0/journal.zip",
-      "sha256": "6c2ca2045839deb6f548977f449cefbc9cc494ebee7cc0e300252cca29df1fbd"
+      "download": "https://github.com/andreakarasho/cuo-journal-mod/releases/download/v0.2.1/journal.zip",
+      "sha256": "9a8a95f66b2f234de71382595eac596febe28932e678033415602f79b6361fe9"
     }
   ]
 }
