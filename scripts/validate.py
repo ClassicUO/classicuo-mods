@@ -65,10 +65,10 @@ def check(path):
     if wasm not in names:
         raise SystemExit(f"{path}: zip missing wasm {wasm!r}")
     head = zf.read(wasm)[:8]
-    # core module preamble = magic + version 1; a Component Model binary carries
-    # 0d 00 01 00 here and the host loader rejects it, so refuse it upfront.
-    if head != b"\0asm\x01\x00\x00\x00":
-        raise SystemExit(f"{path}: {wasm} is not a core wasm module (preamble {head.hex()})")
+    # Component Model preamble = magic + 0d 00 01 00; hosts load wasm32-wasip2
+    # components only and reject a core module (01 00 00 00), so refuse it upfront.
+    if head != b"\0asm\x0d\x00\x01\x00":
+        raise SystemExit(f"{path}: {wasm} is not a wasm component (preamble {head.hex()})")
     print(f"ok {name}@{entry['version']} ({len(data)} bytes)")
 
 

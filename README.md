@@ -19,7 +19,7 @@ are GitHub Releases, and publishing is a pull request.
 {
   "name": "ecs-status",
   "version": "1.2.0",
-  "abi": "2",
+  "abi": "4",
   "description": "Status bar replacement",
   "authors": ["your-github-login"],
   "repository": "https://github.com/you/ecs-status",
@@ -30,7 +30,7 @@ are GitHub Releases, and publishing is a pull request.
 ```
 
 CI downloads the zip and checks: sha256 matches, zip contains `mod.json` +
-the named wasm, the wasm is a core module (not a Component Model binary),
+the named wasm, the wasm is a Component Model binary (wasm32-wasip2; core modules are rejected),
 `mod.json` name/version equal the registry entry, version is greater than the
 previous one, and — on updates — the PR author is listed in the existing
 `authors`. Merge = live.
