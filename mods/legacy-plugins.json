@@ -2,7 +2,7 @@
   "name": "legacy-plugins",
   "version": "0.1.0",
   "abi": "4",
-  "description": "Runs the classic assistant plugins (Razor, ClassicAssist) on the new client: packet hooks, hotkeys, walking, spells and abilities. Windows desktop only.",
+  "description": "Runs the classic assistant plugins on the new client: packet hooks, hotkeys, walking, spells and abilities. Windows desktop only.",
   "authors": [
     "andreakarasho"
   ],
