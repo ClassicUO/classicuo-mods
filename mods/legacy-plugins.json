@@ -4,7 +4,7 @@
   "abi": "4",
   "description": "Runs the classic assistant plugins on the new client: packet hooks, hotkeys, walking, spells and abilities. Windows desktop only.",
   "authors": [
-    "andreakarasho"
+    "karasho"
   ],
   "repository": "https://github.com/andreakarasho/legacy-plugin-mod",
   "license": "BSD-2-Clause",
