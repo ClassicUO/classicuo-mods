@@ -4,7 +4,7 @@
   "abi": "4",
   "description": "Grid container windows: resizable panel, search and sort, pins, free placement, quick move (Ctrl+click) and multi-move (Shift+drag), plus corpse grid. Replaces the client's classic container windows while on.",
   "authors": [
-    "andreakarasho"
+    "karasho"
   ],
   "repository": "https://github.com/andreakarasho/grid-containers-mod",
   "license": "BSD-2-Clause",
