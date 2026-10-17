@@ -51,6 +51,19 @@
       "license": "BSD-2-Clause",
       "download": "https://github.com/andreakarasho/legacy-plugin-mod/releases/download/v0.1.2/legacy-plugins.zip",
       "sha256": "4cd38e89b0d1c496d86ccb7c2966c991a0cf595bc85b63fd67c1624db7d5370d"
+    },
+    {
+      "name": "nearby-hpbars",
+      "version": "0.1.0",
+      "abi": "4",
+      "description": "Nearby mobiles health list: distance, HP % and notoriety colour per row, notoriety filters, follow, and two configurable quick-action buttons per mobile (Bandage, Heal, Greater Heal, Cure, Arch Cure, Remove Curse, Close Wounds, Cleansing Winds) that act on the current target cursor or cast/use directly. Collapsible, resizable, movable window.",
+      "authors": [
+        "karasho"
+      ],
+      "repository": "https://github.com/andreakarasho/nearby-hpbars-mod",
+      "license": "BSD-2-Clause",
+      "download": "https://github.com/andreakarasho/nearby-hpbars-mod/releases/download/v0.1.0/nearby-hpbars.zip",
+      "sha256": "e9dce5dd92359436e424738d027764d2c7622ea7c6702632a6bd71ea70e57291"
     }
   ]
 }
