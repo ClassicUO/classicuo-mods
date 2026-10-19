@@ -2,17 +2,17 @@
   "mods": [
     {
       "name": "durability-check",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "abi": "4",
-      "description": "Equipment durability tracker: movable panel of worn items with hit points, amber/red bars at warn/danger thresholds, overall %, journal alerts when an item drops a band, hover tooltip, double-click to unequip into the backpack.",
+      "description": "Equipment durability tracker: movable, resizable panel of worn items with hit points, amber/red bars at warn/danger thresholds, overall %, journal alerts when an item drops a band, hover tooltip, double-click to unequip into the backpack.",
       "authors": [
         "karasho",
         "andreakarasho"
       ],
       "repository": "https://github.com/andreakarasho/durability-check-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/durability-check-mod/releases/download/v0.1.1/durability-check.zip",
-      "sha256": "102103ce9504c3a21e9aa6df28f3ce463272cc13e95d46d453cd305561403624"
+      "download": "https://github.com/andreakarasho/durability-check-mod/releases/download/v0.1.2/durability-check.zip",
+      "sha256": "d9e5e0961688a86ef669f43b73746312a938f9c5ce8d8ceb8a588d761844e239"
     },
     {
       "name": "grid-containers",
