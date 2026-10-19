@@ -1,6 +1,6 @@
 {
   "name": "durability-check",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "abi": "4",
   "description": "Equipment durability tracker: movable panel of worn items with hit points, amber/red bars at warn/danger thresholds, overall %, journal alerts when an item drops a band, hover tooltip, double-click to unequip into the backpack.",
   "authors": [
@@ -8,6 +8,6 @@
   ],
   "repository": "https://github.com/andreakarasho/durability-check-mod",
   "license": "BSD-2-Clause",
-  "download": "https://github.com/andreakarasho/durability-check-mod/releases/download/v0.1.0/durability-check.zip",
-  "sha256": "63a72c6aa582a95dc3327be301111eadd5dbfce54c3f645950a838fab6236035"
+  "download": "https://github.com/andreakarasho/durability-check-mod/releases/download/v0.1.1/durability-check.zip",
+  "sha256": "102103ce9504c3a21e9aa6df28f3ce463272cc13e95d46d453cd305561403624"
 }

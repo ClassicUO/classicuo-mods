@@ -1,6 +1,6 @@
 {
   "name": "grid-containers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "abi": "4",
   "description": "Grid container windows: resizable panel, search and sort, pins, free placement, quick move (Ctrl+click) and multi-move (Shift+drag), plus corpse grid. Replaces the client's classic container windows while on.",
   "authors": [
@@ -8,6 +8,6 @@
   ],
   "repository": "https://github.com/andreakarasho/grid-containers-mod",
   "license": "BSD-2-Clause",
-  "download": "https://github.com/andreakarasho/grid-containers-mod/releases/download/v0.1.0/grid-containers.zip",
-  "sha256": "79965e55e8d4e78dc63d2229b616f22d409980cb9bbc3632ed0694dc0a75b816"
+  "download": "https://github.com/andreakarasho/grid-containers-mod/releases/download/v0.1.1/grid-containers.zip",
+  "sha256": "f504f62da2098c37135cefff335c452cbfe891bdf4e6b07582a3a9b313690290"
 }
