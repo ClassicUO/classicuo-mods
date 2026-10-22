@@ -20,7 +20,8 @@
       "abi": "4",
       "description": "Grid container windows: resizable panel, search and sort, pins, free placement, quick move (Ctrl+click) and multi-move (Shift+drag), plus corpse grid. Replaces the client's classic container windows while on.",
       "authors": [
-        "karasho"
+        "karasho",
+        "andreakarasho"
       ],
       "repository": "https://github.com/andreakarasho/grid-containers-mod",
       "license": "BSD-2-Clause",
@@ -33,7 +34,8 @@
       "abi": "4",
       "description": "Tabbed, resizable system-log window: All/Sys/Chat/Party/Guild plus custom tabs, hue/hide rules, overhead speech, wheel scrollback, UO fonts, fades in on hover, click-through when idle. Replaces the client's built-in log.",
       "authors": [
-        "karasho"
+        "karasho",
+        "andreakarasho"
       ],
       "repository": "https://github.com/andreakarasho/cuo-journal-mod",
       "license": "BSD-2-Clause",
@@ -46,7 +48,8 @@
       "abi": "4",
       "description": "Runs the classic assistant plugins on the new client: packet hooks, hotkeys, walking, spells and abilities. Windows desktop only.",
       "authors": [
-        "karasho"
+        "karasho",
+        "andreakarasho"
       ],
       "repository": "https://github.com/andreakarasho/legacy-plugin-mod",
       "license": "BSD-2-Clause",
@@ -59,7 +62,8 @@
       "abi": "4",
       "description": "Nearby mobiles health list: distance, HP % and notoriety colour per row, notoriety filters, follow, and two configurable quick-action buttons per mobile (Bandage, Heal, Greater Heal, Cure, Arch Cure, Remove Curse, Close Wounds, Cleansing Winds) that act on the current target cursor or cast/use directly. Collapsible, resizable, movable window.",
       "authors": [
-        "karasho"
+        "karasho",
+        "andreakarasho"
       ],
       "repository": "https://github.com/andreakarasho/nearby-hpbars-mod",
       "license": "BSD-2-Clause",
