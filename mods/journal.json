@@ -1,6 +1,6 @@
 {
   "name": "journal",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "abi": "4",
   "description": "Tabbed, resizable system-log window: All/Sys/Chat/Party/Guild plus custom tabs, hue/hide rules, overhead speech, wheel scrollback, UO fonts, fades in on hover, click-through when idle. Replaces the client's built-in log.",
   "authors": [
@@ -9,6 +9,6 @@
   ],
   "repository": "https://github.com/andreakarasho/cuo-journal-mod",
   "license": "BSD-2-Clause",
-  "download": "https://github.com/andreakarasho/cuo-journal-mod/releases/download/v0.6.1/journal.zip",
-  "sha256": "187283c6592eba245b239bfed3c335b9e79b3cf933fe5b322edbd5cf150cbda0"
+  "download": "https://github.com/andreakarasho/cuo-journal-mod/releases/download/v0.6.2/journal.zip",
+  "sha256": "a291a2987fb7b944f8e6f9c8efa7f93cdc3e09f980ab7d70c517d8f68b5d7815"
 }

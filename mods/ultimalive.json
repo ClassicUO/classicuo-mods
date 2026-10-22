@@ -1,0 +1,13 @@
+{
+  "name": "ultimalive",
+  "version": "0.1.0",
+  "abi": "4",
+  "description": "UltimaLive for shards that edit the map while you play: answers the server's block checks and redraws the land and statics it sends. Blocks are cached per shard, so a relog only downloads what changed.",
+  "authors": [
+    "andreakarasho"
+  ],
+  "repository": "https://github.com/andreakarasho/ultimalive-mod",
+  "license": "BSD-2-Clause",
+  "download": "https://github.com/andreakarasho/ultimalive-mod/releases/download/v0.1.0/ultimalive.zip",
+  "sha256": "26ea35255a7a572573c39f50766729b5c7ec661a62a47f26e8c74b9abd93faa6"
+}
