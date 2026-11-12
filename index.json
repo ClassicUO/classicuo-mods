@@ -2,8 +2,8 @@
   "mods": [
     {
       "name": "durability-check",
-      "version": "0.1.3",
-      "abi": "4",
+      "version": "0.2.0",
+      "abi": "5",
       "description": "Equipment durability tracker: movable, resizable panel of worn items with hit points, amber/red bars at warn/danger thresholds, overall %, journal alerts when an item drops a band, hover tooltip, double-click to unequip into the backpack.",
       "authors": [
         "karasho",
@@ -11,13 +11,13 @@
       ],
       "repository": "https://github.com/andreakarasho/durability-check-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/durability-check-mod/releases/download/v0.1.3/durability-check.zip",
-      "sha256": "7a81d145a82c90c62c9af7692b9cf969c776b9a384bb2a04e74613fffa572e4f"
+      "download": "https://github.com/andreakarasho/durability-check-mod/releases/download/v0.2.0/durability-check.zip",
+      "sha256": "93686ec686cb7ff4efc66e2073f1e282104d8dbcc66acc0909cb27eb28f60b19"
     },
     {
       "name": "grid-containers",
-      "version": "0.1.2",
-      "abi": "4",
+      "version": "0.2.0",
+      "abi": "5",
       "description": "Grid container windows: resizable panel, search and sort, pins, free placement, quick move (Ctrl+click) and multi-move (Shift+drag), plus corpse grid. Replaces the client's classic container windows while on.",
       "authors": [
         "karasho",
@@ -25,13 +25,13 @@
       ],
       "repository": "https://github.com/andreakarasho/grid-containers-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/grid-containers-mod/releases/download/v0.1.2/grid-containers.zip",
-      "sha256": "2a8d7678467292b6ed6843468599576b0449b4951c8dcb282892dcca8aafb2d9"
+      "download": "https://github.com/andreakarasho/grid-containers-mod/releases/download/v0.2.0/grid-containers.zip",
+      "sha256": "edc4c853ebae8835f606af45d0069245ba5d59138187dcc9c3716df08690c9a2"
     },
     {
       "name": "journal",
-      "version": "0.6.2",
-      "abi": "4",
+      "version": "0.7.0",
+      "abi": "5",
       "description": "Tabbed, resizable system-log window: All/Sys/Chat/Party/Guild plus custom tabs, hue/hide rules, overhead speech, wheel scrollback, UO fonts, fades in on hover, click-through when idle. Replaces the client's built-in log.",
       "authors": [
         "karasho",
@@ -39,13 +39,13 @@
       ],
       "repository": "https://github.com/andreakarasho/cuo-journal-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/cuo-journal-mod/releases/download/v0.6.2/journal.zip",
-      "sha256": "a291a2987fb7b944f8e6f9c8efa7f93cdc3e09f980ab7d70c517d8f68b5d7815"
+      "download": "https://github.com/andreakarasho/cuo-journal-mod/releases/download/v0.7.0/journal.zip",
+      "sha256": "cdbbfc4298add0f32162cee3530e64df296def00776ea01fa2df16a303ba347c"
     },
     {
       "name": "legacy-plugins",
-      "version": "0.1.4",
-      "abi": "4",
+      "version": "0.2.0",
+      "abi": "5",
       "description": "Runs the classic assistant plugins on the new client: packet hooks, hotkeys, walking, spells and abilities. Windows desktop only.",
       "authors": [
         "karasho",
@@ -53,13 +53,13 @@
       ],
       "repository": "https://github.com/andreakarasho/legacy-plugin-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/legacy-plugin-mod/releases/download/v0.1.4/legacy-plugins.zip",
-      "sha256": "2eb8eee3ba2d829dd8340dd14f3644ac35a2a2385e5d6ced65f5163baadd2c4c"
+      "download": "https://github.com/andreakarasho/legacy-plugin-mod/releases/download/v0.2.0/legacy-plugins.zip",
+      "sha256": "2dcb1685d5b5b85529f5535be43dfa2914aae7f4135b467eb55a77ac647c110a"
     },
     {
       "name": "nearby-hpbars",
-      "version": "0.1.3",
-      "abi": "4",
+      "version": "0.2.0",
+      "abi": "5",
       "description": "Nearby mobiles health list: distance, HP % and notoriety colour per row, notoriety filters, follow, and two configurable quick-action buttons per mobile (Bandage, Heal, Greater Heal, Cure, Arch Cure, Remove Curse, Close Wounds, Cleansing Winds) that act on the current target cursor or cast/use directly. Collapsible, resizable, movable window.",
       "authors": [
         "karasho",
@@ -67,21 +67,21 @@
       ],
       "repository": "https://github.com/andreakarasho/nearby-hpbars-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/nearby-hpbars-mod/releases/download/v0.1.3/nearby-hpbars.zip",
-      "sha256": "90cfd3f287c71ad8558156bae53034c968949f4914522d0c703be10eb315452e"
+      "download": "https://github.com/andreakarasho/nearby-hpbars-mod/releases/download/v0.2.0/nearby-hpbars.zip",
+      "sha256": "8dad7a9177d8f55693b540fabf1a3c6db257b67bf0ee4fd0a400ad371bcfc7f0"
     },
     {
       "name": "ultimalive",
-      "version": "0.1.0",
-      "abi": "4",
+      "version": "0.2.0",
+      "abi": "5",
       "description": "UltimaLive for shards that edit the map while you play: answers the server's block checks and redraws the land and statics it sends. Blocks are cached per shard, so a relog only downloads what changed.",
       "authors": [
         "andreakarasho"
       ],
       "repository": "https://github.com/andreakarasho/ultimalive-mod",
       "license": "BSD-2-Clause",
-      "download": "https://github.com/andreakarasho/ultimalive-mod/releases/download/v0.1.0/ultimalive.zip",
-      "sha256": "26ea35255a7a572573c39f50766729b5c7ec661a62a47f26e8c74b9abd93faa6"
+      "download": "https://github.com/andreakarasho/ultimalive-mod/releases/download/v0.2.0/ultimalive.zip",
+      "sha256": "edce24eea4f6cb6fabd24a1c3a8f1bc57d645334e95f7871a189788a75728258"
     }
   ]
 }
