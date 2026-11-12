@@ -1,7 +1,7 @@
 {
   "name": "nearby-hpbars",
-  "version": "0.1.3",
-  "abi": "4",
+  "version": "0.2.0",
+  "abi": "5",
   "description": "Nearby mobiles health list: distance, HP % and notoriety colour per row, notoriety filters, follow, and two configurable quick-action buttons per mobile (Bandage, Heal, Greater Heal, Cure, Arch Cure, Remove Curse, Close Wounds, Cleansing Winds) that act on the current target cursor or cast/use directly. Collapsible, resizable, movable window.",
   "authors": [
     "karasho",
@@ -9,6 +9,6 @@
   ],
   "repository": "https://github.com/andreakarasho/nearby-hpbars-mod",
   "license": "BSD-2-Clause",
-  "download": "https://github.com/andreakarasho/nearby-hpbars-mod/releases/download/v0.1.3/nearby-hpbars.zip",
-  "sha256": "90cfd3f287c71ad8558156bae53034c968949f4914522d0c703be10eb315452e"
+  "download": "https://github.com/andreakarasho/nearby-hpbars-mod/releases/download/v0.2.0/nearby-hpbars.zip",
+  "sha256": "8dad7a9177d8f55693b540fabf1a3c6db257b67bf0ee4fd0a400ad371bcfc7f0"
 }

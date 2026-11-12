@@ -1,7 +1,7 @@
 {
   "name": "legacy-plugins",
-  "version": "0.1.4",
-  "abi": "4",
+  "version": "0.2.0",
+  "abi": "5",
   "description": "Runs the classic assistant plugins on the new client: packet hooks, hotkeys, walking, spells and abilities. Windows desktop only.",
   "authors": [
     "karasho",
@@ -9,6 +9,6 @@
   ],
   "repository": "https://github.com/andreakarasho/legacy-plugin-mod",
   "license": "BSD-2-Clause",
-  "download": "https://github.com/andreakarasho/legacy-plugin-mod/releases/download/v0.1.4/legacy-plugins.zip",
-  "sha256": "2eb8eee3ba2d829dd8340dd14f3644ac35a2a2385e5d6ced65f5163baadd2c4c"
+  "download": "https://github.com/andreakarasho/legacy-plugin-mod/releases/download/v0.2.0/legacy-plugins.zip",
+  "sha256": "2dcb1685d5b5b85529f5535be43dfa2914aae7f4135b467eb55a77ac647c110a"
 }
